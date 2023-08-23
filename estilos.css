@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    border-radius: 10px;
+}
+div{
+    color: blue;
+}
+.boton{
+    border: ipx solid red;
+}
